@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Challenge5</string>
+    <string name="binar_academy">Binar Academy</string>
+    <string name="challenge_4">Challenge 4</string>
+    <string name="login">Login</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="daftar">Daftar</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="masukkan_konfirmasi_password">Masukkan Konfirmasi Password</string>
+    <string name="register">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome_username">Welcome, Username!</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="button_add">button add</string>
+    <string name="title">Title</string>
+    <string name="write_a_note_here">Write a note here..</string>
+    <string name="edit_data">Edit Data</string>
+    <string name="hapus_data">Hapus Data</string>
+    <string name="input">Input</string>
+    <string name="input_data">Input Data</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="challenge_5">Challenge 5</string>
+    <string name="androidlogo">androidlogo</string>
+    <string name="profile">Profile</string>
+    <string name="username">Username</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="alamat">Alamat</string>
+    <string name="update">Update</string>
+</resources>
